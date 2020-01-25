@@ -1,2 +1,2 @@
-# botodindron
+# Botodindron
 Discord bot

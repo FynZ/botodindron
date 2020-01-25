@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Botodindron", "src\Botodindron\Botodindron.csproj", "{FE943BE7-BF86-4B15-85FF-5A027A0DE337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Botodindron.Tests", "test\Botodindron.Tests\Botodindron.Tests.csproj", "{BEC511C9-E3DC-4A7D-A2E2-3A171674EDEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE943BE7-BF86-4B15-85FF-5A027A0DE337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE943BE7-BF86-4B15-85FF-5A027A0DE337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE943BE7-BF86-4B15-85FF-5A027A0DE337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE943BE7-BF86-4B15-85FF-5A027A0DE337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC511C9-E3DC-4A7D-A2E2-3A171674EDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC511C9-E3DC-4A7D-A2E2-3A171674EDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC511C9-E3DC-4A7D-A2E2-3A171674EDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC511C9-E3DC-4A7D-A2E2-3A171674EDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35CB1D76-0172-4F03-A6A0-4D8408A591A2}
+	EndGlobalSection
+EndGlobal
